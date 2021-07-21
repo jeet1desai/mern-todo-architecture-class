@@ -1,0 +1,43 @@
+
+.addtodoform {
+  margin-right: 10px;
+}
+
+.addtodoform>input {
+  width: 100% !important;
+  margin-bottom: 5px !important;
+}
+
+.MuiTouchRipple-root {
+  margin-bottom: 5px !important;
+}
+
+.div-paper {
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+}
+
+.list-div-paper {
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  width: 500px;
+  justify-content: space-between;
+}
+
+.list-text{
+  display: grid;
+  text-align: left;
+}
+
+.list-title{
+  font-weight: bold;
+}
+
+.list-desc{
+  font-size: 14px;
+}
